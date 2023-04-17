@@ -1,0 +1,7 @@
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\obj\Debug\Wage_Calculator.csprojAssemblyReference.cache
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\obj\Debug\Wage_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\bin\Debug\Wage_Calculator.exe.config
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\bin\Debug\Wage_Calculator.exe
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\bin\Debug\Wage_Calculator.pdb
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\obj\Debug\Wage_Calculator.exe
+C:\Users\adolf\Desktop\Programing example\Wage_Calculator\Wage_Calculator\obj\Debug\Wage_Calculator.pdb
